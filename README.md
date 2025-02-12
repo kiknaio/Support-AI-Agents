@@ -2,6 +2,9 @@
 
 by George Kiknadze
 
+![Featured Image](featured.png)
+
+
 A powerful AI-powered customer support automation system that leverages [crewAI](https://crewai.com) to provide intelligent, collaborative support responses. This project creates a virtual support team consisting of a Senior Support Representative and a Quality Assurance Specialist who work together to handle customer inquiries with precision and care.
 
 ## What it Does

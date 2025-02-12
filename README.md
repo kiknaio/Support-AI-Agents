@@ -1,6 +1,25 @@
 # CustomerSupport Crew
 
-Welcome to the CustomerSupport Crew project, powered by [crewAI](https://crewai.com). This template is designed to help you set up a multi-agent AI system with ease, leveraging the powerful and flexible framework provided by crewAI. Our goal is to enable your agents to collaborate effectively on complex tasks, maximizing their collective intelligence and capabilities.
+by George Kiknadze
+
+A powerful AI-powered customer support automation system that leverages [crewAI](https://crewai.com) to provide intelligent, collaborative support responses. This project creates a virtual support team consisting of a Senior Support Representative and a Quality Assurance Specialist who work together to handle customer inquiries with precision and care.
+
+## What it Does
+
+This project creates an automated customer support workflow that:
+- Processes and responds to customer inquiries using AI agents
+- Provides detailed, well-researched responses through a senior support representative
+- Ensures quality through a dedicated QA specialist who reviews and refines responses
+- Maintains a friendly, professional tone while delivering comprehensive solutions
+- References relevant documentation and sources in responses
+
+## Why Use It
+
+- **Consistency**: Ensures every response meets high-quality standards
+- **Efficiency**: Automates the support process while maintaining personal touch
+- **Quality Assurance**: Built-in review process for accuracy and completeness
+- **Scalability**: Handles multiple inquiries with consistent quality
+- **Documentation**: Automatically includes relevant references and sources
 
 ## Installation
 
